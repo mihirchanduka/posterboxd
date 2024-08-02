@@ -35,4 +35,4 @@ what is your Letterboxd username?:
 
 ## License
 
-[AGPL-3.0 license](https://github.com/mihirchanduka/posterboxd?tab=AGPL-3.0-1-ov-file#readme)`
+[AGPL-3.0 license](https://github.com/mihirchanduka/posterboxd?tab=AGPL-3.0-1-ov-file#readme)
